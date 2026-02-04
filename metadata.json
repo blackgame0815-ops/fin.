@@ -1,0 +1,7 @@
+{
+  "name": "KQ Fandom Hub",
+  "description": "A premium platform for KQ Entertainment fans to explore news, community discussions, and AI-driven industry insights for ATEEZ and xikers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
